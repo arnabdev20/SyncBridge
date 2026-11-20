@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Build artifacts (created by Notica/PyInstaller)
+build/
+dist/
+*.exe
+
+# Python cache files
+__pycache__/
+*.pyc
